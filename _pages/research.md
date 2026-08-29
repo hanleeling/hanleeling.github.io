@@ -15,6 +15,6 @@ My research outside Chinese includes comparative work on the Jê languages of Br
 
 ## M.A. Thesis
 
-**[Hardening Phenomenon in the Xiāng Dialects](https://digital.lib.washington.edu/server/api/core/bitstreams/0eb75ad3-d73e-4b33-9aa3-b4d763a035e0/content)**  
+**Hardening Phenomenon in the Xiāng Dialects**  
 M.A. thesis, University of Washington, 2022.  
 [PDF](https://digital.lib.washington.edu/server/api/core/bitstreams/0eb75ad3-d73e-4b33-9aa3-b4d763a035e0/content)
