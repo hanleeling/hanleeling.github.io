@@ -8,6 +8,6 @@ date: 2026-08-26
 location: "Uppsala, Sweden"
 ---
 
-Presented at *Typology in Historical Phonology @ Uppsala*, Uppsala University, August 24–26, 2026.
+Workshop held at Uppsala University, August 24–26, 2026.
 
 [Workshop website](https://histphontyp.github.io/)
