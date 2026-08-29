@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am a Ph.D. Candidate in Chinese Linguistics at the University of Washington. My research lies at the intersection of historical linguistics, phonology, and Chinese linguistics, with a particular focus on comparative reconstruction and the mechanisms of sound change.
 
-A central goal of my research is to understand how phonological changes arise and develop, and how comparative evidence can be used to distinguish inherited patterns from parallel developments. Methodologically, I combine the comparative method and dialectal evidence with insights from phonological and phonetic research. While much of my work focuses on Chinese varieties, I am also interested in comparative and diachronic questions across language families.
+A central goal of my research is to understand how phonological changes arise and develop, and how comparative evidence can be used to distinguish inherited patterns from parallel developments. Methodologically, I combine the comparative method and dialectal evidence with insights from phonological and phonetic research. While much of my work focuses on Chinese varieties, my comparative research also extends to languages outside the Sinitic family.
 
 ## Dissertation
 
@@ -16,7 +16,7 @@ My dissertation investigates the historical phonology of the Loushao varieties o
 
 ## Other Research
 
-My research outside Chinese includes comparative work on the Northern Jê languages in Brazil. In ongoing work on Northern Jê, I use comparative reconstruction to investigate the history of coronal obstruents and the development of consonant systems.
+My research outside Chinese includes comparative work on the Jê languages in Brazil. In ongoing work on Northern Jê, I use comparative reconstruction to investigate the history of coronal obstruents and the development of consonant systems.
 
 ## Research Interests
 
