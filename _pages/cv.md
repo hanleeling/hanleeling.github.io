@@ -12,15 +12,19 @@ redirect_from:
 Education
 ======
 
-**Ph.D. in Asian Languages and Literature**, University of Washington  
+**Ph.D. in Asian Languages and Literature**
+University of Washington  
 Expected 2027  
 Specialization: Chinese Linguistics
 
-**M.A. in Asian Languages and Literature**, University of Washington, 2022
+**M.A. in Asian Languages and Literature**
+University of Washington, 2022
 
-**M.A. in Linguistics**, University of Hawaiʻi at Mānoa, 2018
+**M.A. in Linguistics**
+University of Hawaiʻi at Mānoa, 2018
 
-**B.S. in Animal Science and Technology**, National Taiwan University, 2016
+**B.S. in Animal Science and Technology**
+National Taiwan University, 2016
 
 
 Research Interests
@@ -32,9 +36,10 @@ Historical linguistics · Comparative reconstruction · Sound change · Diachron
 Publications
 ======
 
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
+Theses
+======
+
+**Lee, Han. 2022.** *Hardening Phenomenon in the Xiāng Dialects.* M.A. thesis, University of Washington.
 
 
 Conference & Workshop Presentations
