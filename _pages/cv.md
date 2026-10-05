@@ -12,19 +12,22 @@ redirect_from:
 Education
 ======
 
-**Ph.D. in Asian Languages and Literature**
-University of Washington  
-Expected 2027  
+### University of Washington
+
+**Ph.D. in Asian Languages and Literature**, expected 2027  
 Specialization: Chinese Linguistics
 
-**M.A. in Asian Languages and Literature**
-University of Washington, 2022
+**M.A. in Asian Languages and Literature**, 2022
 
-**M.A. in Linguistics**
-University of Hawaiʻi at Mānoa, 2018
 
-**B.S. in Animal Science and Technology**
-National Taiwan University, 2016
+### University of Hawaiʻi at Mānoa
+
+**M.A. in Linguistics**, 2018
+
+
+### National Taiwan University
+
+**B.S. in Animal Science and Technology**, 2016
 
 
 Research Interests
@@ -32,9 +35,6 @@ Research Interests
 
 Historical linguistics · Comparative reconstruction · Sound change · Diachronic phonology · Chinese dialectology · Xiang Chinese · Northern Jê languages
 
-
-Publications
-======
 
 Theses
 ======
